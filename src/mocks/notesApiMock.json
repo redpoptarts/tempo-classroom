@@ -1,0 +1,30 @@
+{
+	"name": "Introduction to Data Analysis with Python",
+	"videoUrl": "http://take-home-assignment.tempo.fit/videos/python-data.mp4",
+	"notes": [
+		{
+			"start": "0:00",
+			"note": "The digital universe will grow from 3.2 zettabytes to 40 zettabytes in only six years."
+		},
+		{
+			"start": "0:10",
+			"note": "Every day, we create 2.5 quintillion bytes of data â so much that 90% of the data in the world today has been created in the last two years alone."
+		},
+		{
+			"start": "0:45",
+			"note": "Facebook puts up over 10 million photographs every hour and around 3 billion âlikeâ buttons are pushed everyday"
+		},
+		{
+			"start": "1:48",
+			"note": "The digital universe will grow from 3.2 zettabytes to 40 zettabytes in only six years."
+		},
+		{
+			"start": "1:45",
+			"note": "48 hours of video are uploaded to YouTube every minute"
+		},
+		{
+			"start": "2:35",
+			"note": "By 2015, 4.4 million IT jobs globally will be created to support big data, generating 1.9 million IT jobs in the United States."
+		}
+	]
+}
